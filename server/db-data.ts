@@ -5,8 +5,8 @@ export const COURSES: any = {
     id: 18,
     title: 'Modern Angular With Signals',
     longDescription: 'Learn signals in depth. Build a modern signal-based application with async/await, standalone components and optional RxJs.',
-    iconUrl: 'https://d3vigmphadbn9b.cloudfront.net/course-images/large-images/angular-signals-demo.jpg',
-    courseListIcon: 'https://angular-academy.s3.amazonaws.com/main-logo/main-page-logo-small-hat.png',
+    iconUrl: 'https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsvyk6s9obh48rtsqd0s.png',
+    courseListIcon: 'https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsvyk6s9obh48rtsqd0s.png',
     category: 'BEGINNER',
     lessonsCount: 10,
     seqNo: 0,
@@ -18,8 +18,8 @@ export const COURSES: any = {
     id: 17,
     title: 'Reactive Angular Course',
     longDescription: 'How to build Angular applications in Reactive style using plain RxJs - Patterns and Anti-Patterns',
-    iconUrl: 'https://angular-university.s3-us-west-1.amazonaws.com/course-images/reactive-angular-course.jpg',
-    courseListIcon: 'https://angular-academy.s3.amazonaws.com/main-logo/main-page-logo-small-hat.png',
+    iconUrl: 'https://blog.openreplay.com/images/functional-reactive-programming-angular-rxjs/images/hero.png',
+    courseListIcon: 'https://blog.openreplay.com/images/functional-reactive-programming-angular-rxjs/images/hero.png',
     category: 'BEGINNER',
     lessonsCount: 10,
     seqNo: 1,
@@ -29,9 +29,9 @@ export const COURSES: any = {
 
   2: {
     id: 2,
-    title: 'Angular Core Deep Dive',
-    longDescription: 'A detailed walk-through of the most important part of Angular - the Core and Common modules',
-    iconUrl: 'https://d3vigmphadbn9b.cloudfront.net/course-images/large-images/angular-core-deep-dive-new-2.jpg',
+    title: 'Angular Core',
+    longDescription: 'A detailed walk-through of the Core and Common modules',
+    iconUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVEKv2dJddfioT022asctcLsEqALGV8riVg&s',
     lessonsCount: 10,
     category: 'BEGINNER',
     seqNo: 2,
@@ -41,10 +41,10 @@ export const COURSES: any = {
 
   3: {
     id: 3,
-    title: 'RxJs In Practice Course',
+    title: 'RxJs In Angular',
     longDescription: 'Understand the RxJs Observable pattern, learn the RxJs Operators via practical examples',
-    iconUrl: 'https://s3-us-west-1.amazonaws.com/angular-university/course-images/rxjs-in-practice-course.png',
-    courseListIcon: 'https://angular-academy.s3.amazonaws.com/main-logo/main-page-logo-small-hat.png',
+    iconUrl: 'https://miro.medium.com/1*KQ7Vmz_YGJlsdlW4Hr8JeQ.png',
+    courseListIcon: 'https://miro.medium.com/1*KQ7Vmz_YGJlsdlW4Hr8JeQ.png',
     category: 'BEGINNER',
     lessonsCount: 10,
     seqNo: 3,
@@ -961,7 +961,7 @@ export const LESSONS : any = {
 export const USERS = {
   1: {
     id: 1,
-    email: 'test@angular-university.io',
+    email: 'test@gmail.com',
     password: 'test',
     pictureUrl: 'https://lh3.googleusercontent.com/-1pUNnTB3vaA/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdn4uEc0ti8YE4Uuw6_Kz04tVe2Mg.CMID/s32-c/photo.jpg'
   }
